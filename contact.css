@@ -39,7 +39,7 @@ body{
 }
 
 p{
-	font-size: 25px;
+	font-size: 18px;
 	color: #d9d9d9;
 	font-weight: bold;
 }
@@ -74,9 +74,9 @@ h1 {
 }
 
 h3{
-	  color: #97afc4;
-  font-weight: 100;
-  font-size: 60px;
+	color: #97afc4;
+  	font-weight: 100;
+  	font-size: 45px;
 }
 
 footer{
